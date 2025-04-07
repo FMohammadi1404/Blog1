@@ -1,2 +1,2 @@
 # Blog1
-PHP-NON OOP
+PHP-Procedural
